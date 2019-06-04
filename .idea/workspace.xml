@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05fe3a9a-b7b6-4078-99b0-6ec9d77d3f43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuctionHouse/src/model/AuctionHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuctionHouse/src/model/Auctioneer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuctionHouse/src/model/Bidder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuctionHouse/src/observer/BidderObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AuctionHouse/src/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AuctionHouse/model/Auctioneer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AuctionHouse/model/Bidder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AuctionHouse/observer/BidderObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AuctionHouse/observer/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AuctionHouse/ui/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuctionHouse/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuctionHouse/src/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPod/src/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/iPod/src/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPod/src/model/iPod.java" beforeDir="false" afterPath="$PROJECT_DIR$/iPod/src/model/iPod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPod/src/model/media/AbstractMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/iPod/src/model/media/AbstractMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPod/src/model/media/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/iPod/src/model/media/Movie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,59 +21,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AuctionHouse/src/model/AuctionHouse.java">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/iPod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1306#1307#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1381#1382#0" expanded="true" />
-                <element signature="e#1468#1469#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AuctionHouse/src/model/Auctioneer.java">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/media/AbstractMedia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AuctionHouse/src/model/Bidder.java">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AuctionHouse/src/observer/BidderObserver.java">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Photo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AuctionHouse/src/observer/Subject.java">
+        <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -110,12 +106,16 @@
         <option value="$PROJECT_DIR$/AuctionHouse/src/model/Auctioneer.java" />
         <option value="$PROJECT_DIR$/AuctionHouse/src/model/AuctionHouse.java" />
         <option value="$PROJECT_DIR$/AuctionHouse/src/model/Bidder.java" />
+        <option value="$PROJECT_DIR$/iPod/src/model/media/AbstractMedia.java" />
+        <option value="$PROJECT_DIR$/iPod/src/model/iPod.java" />
+        <option value="$PROJECT_DIR$/iPod/src/model/Main.java" />
+        <option value="$PROJECT_DIR$/iPod/src/model/media/Movie.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1580" />
-    <option name="width" value="340" />
+    <option name="x" value="598" />
+    <option name="width" value="1322" />
     <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -126,42 +126,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="design-patterns-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuctionHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="iPod" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuctionHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="iPod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuctionHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="iPod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuctionHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="iPod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns-practice-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AuctionHouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +175,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.Main" />
+      <module name="iPod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ui.Main" />
       <module name="AuctionHouse" />
@@ -197,6 +204,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -215,11 +223,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="863" y="0" width="1057" height="1200" extended-state="6" />
+    <frame x="631" y="0" width="1289" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.24233432" />
-      <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" visible="true" weight="0.24233432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.489418" visible="true" weight="0.2300885" />
+      <window_info id="Structure" order="1" sideWeight="0.51058203" side_tool="true" visible="true" weight="0.2300885" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -227,7 +235,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27925533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,6 +325,57 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/iPod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/media/AbstractMedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Photo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iPod/src/model/media/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

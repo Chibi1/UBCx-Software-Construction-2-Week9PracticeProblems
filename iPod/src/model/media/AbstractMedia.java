@@ -17,5 +17,6 @@ public abstract class AbstractMedia {
     public String getCreator() { return creator; }
     public String getGenre() { return genre; }
 
+//    public abstract void addMedia(AbstractMedia abstractMedia);
 
 }
